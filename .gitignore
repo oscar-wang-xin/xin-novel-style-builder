@@ -1,0 +1,10 @@
+# Reasonix 工作区元数据（本地会话记录，不上传）
+.reasonix/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Skill 构建器运行时产物
+output/
